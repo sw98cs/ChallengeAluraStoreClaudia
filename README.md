@@ -14,21 +14,4 @@ Este proyecto tiene como objetivo ayudar al Sr. Juan a decidir **qué tienda de 
 - Presentar los resultados de forma **visual** mediante gráficos.
 - Emitir una **recomendación** sobre qué tienda debería vender el Sr. Juan.
 
----
-
-## 🗂 Estructura del proyecto
-
-```text
-alura-store-analisis/
-├── data/
-│   ├── ventas_tiendas.csv        # Datos de ventas por tienda, categoría, producto
-│   ├── reseñas_tiendas.csv       # Calificaciones y comentarios de clientes
-│   └── envios_tiendas.csv        # Tiempos o costos de envío promedio
-├── notebooks/
-│   └── analisis_alura_store.ipynb  # Notebook principal con todo el análisis
-├── img/
-│   ├── ingresos_por_tienda.png
-│   ├── categorias_mas_vendidas.png
-│   └── reseñas_promedio.png
-└── README.md
 
